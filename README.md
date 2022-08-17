@@ -1,6 +1,11 @@
 # HandyPrefs
 simple version of Sharedpreferences with kotlin delegation
 ![alt text](images/ice.png)
+
+### Dependency
+
+[![](https://jitpack.io/v/rajumark/HandyPrefs.svg)](https://jitpack.io/#rajumark/HandyPrefs)
+
 ### Setup
 
 ```Kotlin
