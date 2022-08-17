@@ -140,6 +140,8 @@ class HandyPrefs<T : Any>(val klass: Class<T>) : ReadWriteProperty<Any?, T?> {
             }
         }
 
+        fun getAll()=sharedPreferences?.all.orEmpty()
+
     }
 
 

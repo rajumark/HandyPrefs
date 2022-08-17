@@ -52,3 +52,11 @@ object Prefs {
 ```Kotlin
     textview.text = userid
 ```
+##### get all keys and values
+```Kotlin
+    HandyPrefs.getAll()
+```
+##### clear all
+```Kotlin
+    HandyPrefs.clear()
+```

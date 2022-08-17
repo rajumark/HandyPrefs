@@ -16,5 +16,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SampleSharedPreferences"
 include ':app'
-//include ':handyprefs'
+include ':handyprefs'
 
