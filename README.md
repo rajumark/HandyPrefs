@@ -9,7 +9,7 @@ simple version of Sharedpreferences with kotlin delegation
 
 ```Groovy
 dependencies {
-    implementation 'com.github.rajumark:HandyPrefs:1.0.0'
+    implementation 'com.github.rajumark:HandyPrefs:1.0.1'
 }
 ```
 
