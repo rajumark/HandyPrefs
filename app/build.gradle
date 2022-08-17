@@ -45,6 +45,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
    //  implementation project(':handyprefs')
-     implementation 'com.github.rajumark:HandyPrefs:1.0.0'
+     implementation 'com.github.rajumark:HandyPrefs:1.0.1'
 
 }

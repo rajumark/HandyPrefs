@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rajumark:HandyPrefs:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e7c8f2e05a20ba100775c1b18357dccc/transformed/HandyPrefs-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e7c8f2e05a20ba100775c1b18357dccc/transformed/HandyPrefs-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e7c8f2e05a20ba100775c1b18357dccc/transformed/HandyPrefs-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rajumark/HandyPrefs/1.0.1/bfab1fafabe5ee0d827f66e30fb435c28086c3df/HandyPrefs-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

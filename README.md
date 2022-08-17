@@ -13,7 +13,7 @@ dependencies {
 ```
 
 ```Groovy
-	allprojects {
+allprojects {
     repositories {
         maven { url 'https://jitpack.io' }
     }

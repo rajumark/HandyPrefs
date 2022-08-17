@@ -7,10 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleSharedPreferences.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleSharedPreferences.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleSharedPreferences.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleSharedPreferences.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleSharedPreferences.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleSharedPreferences.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.iml" filepath="$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/handyprefs/SampleSharedPreferences.handyprefs.unitTest.iml" />
     </modules>
   </component>
 </project>
