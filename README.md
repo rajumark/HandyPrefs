@@ -22,7 +22,7 @@ object Prefs {
 }
 ```
 
-### How to use
+### Use it as normal variable from anywhere 
 
 ##### set value
 ```Kotlin
