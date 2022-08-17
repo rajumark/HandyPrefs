@@ -6,7 +6,6 @@ simple version of Sharedpreferences with kotlin delegation
 
 [![](https://jitpack.io/v/rajumark/HandyPrefs.svg)](https://jitpack.io/#rajumark/HandyPrefs)
 
-
 ```Groovy
 dependencies {
     implementation 'com.github.rajumark:HandyPrefs:1.0.1'
