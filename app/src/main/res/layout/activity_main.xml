@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HandyPrefs"
+        android:textSize="40sp"
+        android:id="@+id/tvLable"
+        android:layout_marginTop="20dp"
+        />
+
+   <androidx.appcompat.widget.AppCompatEditText
+       app:layout_constraintTop_toBottomOf="@+id/tvLable"
+       android:layout_marginTop="30dp"
+       android:layout_width="match_parent"
+       android:hint="Write here to save"
+       android:layout_height="50dp"
+       android:id="@+id/edtInput"
+       android:layout_marginHorizontal="30dp"
+       android:textSize="18sp"
+       android:background="#EDEDED"
+       android:gravity="center_vertical"
+       android:paddingHorizontal="10dp"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/buttonSave"
+        app:layout_constraintStart_toStartOf="@+id/edtInput"
+        app:layout_constraintEnd_toEndOf="@+id/edtInput"
+        app:layout_constraintTop_toBottomOf="@+id/edtInput"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="50dp"
+        android:background="#D8D8D8"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No value"
+        android:textSize="20sp"
+        android:id="@+id/tvShow"
+        android:layout_marginTop="50dp"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:id="@+id/buttonFetch"
+        app:layout_constraintStart_toStartOf="@+id/edtInput"
+        app:layout_constraintEnd_toEndOf="@+id/edtInput"
+        app:layout_constraintTop_toBottomOf="@+id/edtInput"
+        android:layout_height="wrap_content"
+        android:text="Fetch"
+        android:layout_marginTop="20dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="50dp"
+        android:background="#D8D8D8"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:id="@+id/buttonClear"
+        app:layout_constraintStart_toStartOf="@+id/edtInput"
+        app:layout_constraintEnd_toEndOf="@+id/edtInput"
+        app:layout_constraintTop_toBottomOf="@+id/edtInput"
+        android:layout_height="wrap_content"
+        android:text="Clear"
+        android:layout_marginTop="20dp"
+        />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
